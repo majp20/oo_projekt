@@ -1,463 +1,867 @@
 [
   {
     "naslov": "Prazgodovina",
-    "leto": "40000–3000 pr. n. št.",
+    "leto": "40000–3000 pr.n.št.",
     "opis": "Jamske poslikave in zemeljski pigmenti.",
     "paleta": [
-      "#997D69",
-      "#885A39",
-      "#BDA495",
-      "#5B5350",
-      "#352725",
-      "#E9E4CE"
+      "#FEFEFC",
+      "#AD8561",
+      "#866C5F",
+      "#000009",
+      "#857041",
+      "#E9F0C6"
     ],
     "imena": [
-      "Taupe rjava",
-      "Siena rjava",
-      "Peščeno bež",
-      "Topla siva",
-      "Temno rjava",
-      "Slonokoščena"
+      "Skoraj bela",
+      "Srednje temna oranžno rjava",
+      "Srednje temna rdečkasto rjava",
+      "Skoraj črna z modrikastim tonom",
+      "Srednje temna rumenkasto rjava",
+      "Zelo svetla kremno rumena"
     ],
     "dela": [
       {
-        "title": "Altamira: polikromni bizon",
-        "artist": "Neznan umetnik",
-        "year": "pribl. 15000–13000 pr. n. št.",
-        "img": "images/Altamira,_bison.jpg"
+        "title": "Altamira, bison",
+        "artist": "",
+        "year": "",
+        "img": "images/Altamira,_bison.jpg",
+        "paleta": [
+          "#F8F8E0",
+          "#D85134",
+          "#E9F0C6",
+          "#311B1D",
+          "#C1B18D",
+          "#9A896F"
+        ]
       },
       {
-        "title": "Bhimbetka: skalne poslikave",
-        "artist": "Neznan umetnik",
-        "year": "mezolitik–zgodovinsko obdobje",
-        "img": "images/bhimbetka_skalne_poslikave_neznan_umetnik_10000_pr_n_st.jpg"
+        "title": "bhimbetka skalne poslikave neznan umetnik 10000 pr n st",
+        "artist": "",
+        "year": "",
+        "img": "images/bhimbetka_skalne_poslikave_neznan_umetnik_10000_pr_n_st.jpg",
+        "paleta": [
+          "#AD8561",
+          "#876D60"
+        ]
       },
       {
-        "title": "Bhimbetka: skalne poslikave",
-        "artist": "Neznan umetnik",
-        "year": "mezolitik–zgodovinsko obdobje",
-        "img": "images/bhimbetka_skalne_poslikave_neznan_umetnik_10000_pr_n_st_2.jpg"
+        "title": "bhimbetka skalne poslikave neznan umetnik 10000 pr n st 2",
+        "artist": "",
+        "year": "",
+        "img": "images/bhimbetka_skalne_poslikave_neznan_umetnik_10000_pr_n_st_2.jpg",
+        "paleta": [
+          "#C1BCB8",
+          "#AD8E7C",
+          "#856556",
+          "#5B574E",
+          "#323228"
+        ]
       },
       {
-        "title": "Chauvet: konji",
-        "artist": "Neznan umetnik",
-        "year": "pribl. 30000 pr. n. št.",
-        "img": "images/chauvet_konji_neznan_umetnik_32000_pr_n_st_3.jpg"
+        "title": "chauvet konji neznan umetnik 32000 pr n st 3",
+        "artist": "",
+        "year": "",
+        "img": "images/chauvet_konji_neznan_umetnik_32000_pr_n_st_3.jpg",
+        "paleta": [
+          "#00000A",
+          "#855A16",
+          "#A49CAB",
+          "#7D7E9A",
+          "#C39E8C",
+          "#967530"
+        ]
       },
       {
-        "title": "Cueva de las Manos: odtisi rok",
-        "artist": "Neznan umetnik",
-        "year": "pribl. 11000–7500 pr. n. št.",
-        "img": "images/cueva_de_las_manos_roke_neznan_umetnik_9000_pr_n_st.jpg"
+        "title": "cueva de las manos roke neznan umetnik 9000 pr n st",
+        "artist": "",
+        "year": "",
+        "img": "images/cueva_de_las_manos_roke_neznan_umetnik_9000_pr_n_st.jpg",
+        "paleta": [
+          "#816349",
+          "#6F4936",
+          "#D6CCC2",
+          "#B0A997"
+        ]
       },
       {
-        "title": "Lascaux: jamske poslikave",
-        "artist": "Neznan umetnik",
-        "year": "pribl. 17000 pr. n. št.",
-        "img": "images/Lascaux_01.jpg"
+        "title": "Lascaux 01",
+        "artist": "",
+        "year": "",
+        "img": "images/Lascaux_01.jpg",
+        "paleta": [
+          "#AD7B62",
+          "#855740",
+          "#000002",
+          "#D6D1CD",
+          "#EAD8A8",
+          "#0D0E10"
+        ]
       },
       {
-        "title": "Lascaux: jamske poslikave",
-        "artist": "Neznan umetnik",
-        "year": "pribl. 17000 pr. n. št.",
-        "img": "images/Lascaux_painting.jpg"
+        "title": "Lascaux painting",
+        "artist": "",
+        "year": "",
+        "img": "images/Lascaux_painting.jpg",
+        "paleta": [
+          "#D6A378",
+          "#E7E6E4",
+          "#997D6F",
+          "#EADBBC",
+          "#AE959B",
+          "#878298"
+        ]
       },
       {
-        "title": "Niaux: bizoni",
-        "artist": "Neznan umetnik",
-        "year": "pribl. 13000 pr. n. št.",
-        "img": "images/niaux_bizoni_neznan_umetnik_paleolitik.jpg"
+        "title": "niaux bizoni neznan umetnik paleolitik",
+        "artist": "",
+        "year": "",
+        "img": "images/niaux_bizoni_neznan_umetnik_paleolitik.jpg",
+        "paleta": [
+          "#7F8382",
+          "#FCCBA2",
+          "#5A6970",
+          "#333D47",
+          "#C29D8B",
+          "#4D515A"
+        ]
       },
       {
-        "title": "Cueva de las Manos: odtisi rok",
-        "artist": "Neznan umetnik",
-        "year": "pribl. 11000–7500 pr. n. št.",
-        "img": "images/SantaCruz-CuevaManos-P2210651b.jpg"
+        "title": "SantaCruz CuevaManos P2210651b",
+        "artist": "",
+        "year": "",
+        "img": "images/SantaCruz-CuevaManos-P2210651b.jpg",
+        "paleta": [
+          "#320300",
+          "#834320",
+          "#C2AEB0",
+          "#996F71",
+          "#71515C"
+        ]
       },
       {
-        "title": "Serra da Capivara: skalna umetnost",
-        "artist": "Neznan umetnik",
-        "year": "pribl. 12000–6000 pr. n. št.",
-        "img": "images/serra_da_capivara_skalna_umetnost_neznan_umetnik_prazgodovina.jpg"
+        "title": "serra da capivara skalna umetnost neznan umetnik prazgodovina",
+        "artist": "",
+        "year": "",
+        "img": "images/serra_da_capivara_skalna_umetnost_neznan_umetnik_prazgodovina.jpg",
+        "paleta": [
+          "#997D56",
+          "#857041",
+          "#5B1E01",
+          "#808378",
+          "#6E705B"
+        ]
       },
       {
-        "title": "Willendorfska Venera",
-        "artist": "Neznan umetnik",
-        "year": "pribl. 28000–25000 pr. n. št.",
-        "img": "images/Venus_von_Willendorf_01.jpg"
+        "title": "Venus von Willendorf 01",
+        "artist": "",
+        "year": "",
+        "img": "images/Venus_von_Willendorf_01.jpg",
+        "paleta": [
+          "#FFFFFF",
+          "#994E0D",
+          "#D7AA45",
+          "#6F1A00"
+        ]
       }
     ]
   },
   {
     "naslov": "Stari Egipt",
-    "leto": "3100–30 pr. n. št.",
-    "opis": "",
+    "leto": "3100–30 pr.n.št.",
+    "opis": "Zlati toni in lapis lazuli.",
     "paleta": [
-      "#9A8A78",
-      "#32291F",
-      "#BFB4A0",
-      "#6C4F3C",
-      "#465969",
-      "#E3DFD8"
+      "#F6F7FB",
+      "#342818",
+      "#2D5173",
+      "#6C4035",
+      "#000004",
+      "#FEEFC8"
     ],
     "imena": [
-      "Taupe siva",
-      "Temno rjava",
-      "Sivo bež",
-      "Kavna rjava",
-      "Skrilasto modro-siva",
-      "Svetlo siva"
+      "Skoraj bela z modrikastim tonom",
+      "Zelo temna oranžno rjava",
+      "Temna modra",
+      "Temna rdeče-oranžna",
+      "Skoraj črna z modrikastim tonom",
+      "Zelo svetla kremno rumena"
     ],
     "dela": [
       {
-        "title": "Glava Amenhotepa III.",
-        "artist": "Neznan umetnik",
-        "year": "pribl. 1390–1352 pr. n. št.",
-        "img": "images/amenhotep_iii_neznan_umetnik.jpg"
+        "title": "amenhotep iii neznan umetnik",
+        "artist": "",
+        "year": "",
+        "img": "images/amenhotep_iii_neznan_umetnik.jpg",
+        "paleta": [
+          "#F6F7F9",
+          "#AD8B6F",
+          "#47362E",
+          "#1B1A15",
+          "#4C575D",
+          "#3B3D49"
+        ]
       },
       {
-        "title": "Glava Amenhotepa III.",
-        "artist": "Neznan umetnik",
-        "year": "pribl. 1360 pr. n. št.",
-        "img": "images/amenhotep_iii_neznan_umetnik_1360_pr_n_st.jpg"
+        "title": "amenhotep iii neznan umetnik 1360 pr n st",
+        "artist": "",
+        "year": "",
+        "img": "images/amenhotep_iii_neznan_umetnik_1360_pr_n_st.jpg",
+        "paleta": [
+          "#342818",
+          "#FEE9B4"
+        ]
       },
       {
-        "title": "Velika sfinga v Gizi",
-        "artist": "Neznan umetnik",
-        "year": "pribl. 2558–2532 pr. n. št.",
-        "img": "images/Great_Sphinx_of_Giza_-_20080716a.jpg"
+        "title": "Great Sphinx of Giza 20080716a",
+        "artist": "",
+        "year": "",
+        "img": "images/Great_Sphinx_of_Giza_-_20080716a.jpg",
+        "paleta": [
+          "#EDD2A7",
+          "#2D5173",
+          "#FEEFC8",
+          "#FFFEDC"
+        ]
       },
       {
-        "title": "Poslikave v Nebamunovi grobnici",
-        "artist": "Neznan umetnik",
-        "year": "pribl. 1350 pr. n. št.",
-        "img": "images/grobnica_nebamun_neznan_umetnik_1350_pr_n_st_2.jpg"
+        "title": "grobnica nebamun neznan umetnik 1350 pr n st 2",
+        "artist": "",
+        "year": "",
+        "img": "images/grobnica_nebamun_neznan_umetnik_1350_pr_n_st_2.jpg",
+        "paleta": [
+          "#EEF2FB",
+          "#AC7453",
+          "#857E6B",
+          "#9FB7C1",
+          "#C3C3A7",
+          "#303538"
+        ]
       },
       {
-        "title": "Poslikave v Nebamunovi grobnici",
-        "artist": "Neznan umetnik",
-        "year": "pribl. 1350 pr. n. št.",
-        "img": "images/Maler_der_Grabkammer_des_Nebamun_001.jpg"
+        "title": "Maler der Grabkammer des Nebamun 001",
+        "artist": "",
+        "year": "",
+        "img": "images/Maler_der_Grabkammer_des_Nebamun_001.jpg",
+        "paleta": [
+          "#6C4035",
+          "#999491",
+          "#AA8662",
+          "#AB9C7B"
+        ]
       },
       {
-        "title": "Tutankamonova posmrtna maska",
-        "artist": "Neznan umetnik",
-        "year": "pribl. 1323 pr. n. št.",
-        "img": "images/Mask_of_Tutankhamun_in_2025.jpg"
+        "title": "Mask of Tutankhamun in 2025",
+        "artist": "",
+        "year": "",
+        "img": "images/Mask_of_Tutankhamun_in_2025.jpg",
+        "paleta": [
+          "#040000",
+          "#1E1200",
+          "#172846",
+          "#98834A",
+          "#000A20",
+          "#828481"
+        ]
       },
       {
-        "title": "Narmerjeva paleta",
-        "artist": "Neznan umetnik",
-        "year": "pribl. 3100 pr. n. št.",
-        "img": "images/narmerjeva_paleta_neznan_umetnik_3100_pr_n_st.jpg"
+        "title": "narmerjeva paleta neznan umetnik 3100 pr n st",
+        "artist": "",
+        "year": "",
+        "img": "images/narmerjeva_paleta_neznan_umetnik_3100_pr_n_st.jpg",
+        "paleta": [
+          "#FBFBFB",
+          "#000200",
+          "#617171",
+          "#4B545D",
+          "#70837D",
+          "#0D0E10"
+        ]
       }
     ]
   },
   {
     "naslov": "Srednji vek",
     "leto": "500–1500",
-    "opis": "",
+    "opis": "Religiozna umetnost in bogate simbolne barve.",
     "paleta": [
-      "#A07A4E",
-      "#B7A280",
-      "#6B4D3B",
-      "#57668E",
-      "#DBD2C5",
-      "#302C34"
+      "#E9E4DE",
+      "#D5A867",
+      "#030207",
+      "#637299",
+      "#D6BF89",
+      "#310200"
     ],
     "imena": [
-      "Okrasto rjava",
-      "Peščeno bež",
-      "Temno taupe rjava",
-      "Skrilasto modra",
-      "Svetlo bež",
-      "Ogljeno siva"
+      "Zelo svetlo siva z oranžnim tonom",
+      "Srednje svetla oranžna",
+      "Skoraj črna z vijoličastim tonom",
+      "Srednje temna umirjena modra",
+      "Svetla umirjena rumeno-oranžna",
+      "Zelo temna rdeča"
     ],
     "dela": [
       {
-        "title": "Trojica",
-        "artist": "Andrej Rubljov",
-        "year": "pribl. 1411–1427",
-        "img": "images/andrej_rubljev_trojica_andrej_rubljev_1411.jpg"
+        "title": "andrej rubljev trojica andrej rubljev 1411",
+        "artist": "",
+        "year": "",
+        "img": "images/andrej_rubljev_trojica_andrej_rubljev_1411.jpg",
+        "paleta": [
+          "#EAD296",
+          "#C18E3D",
+          "#4B6D9A",
+          "#5B3624",
+          "#838440",
+          "#91998A"
+        ]
       },
       {
-        "title": "Tapiserija iz Bayeuxa: Haroldova smrt",
-        "artist": "Neznan mojster",
-        "year": "pribl. 1070–1080",
-        "img": "images/Bayeux_Tapestry_scene57_Harold_death.jpg"
+        "title": "Bayeux Tapestry scene57 Harold death",
+        "artist": "",
+        "year": "",
+        "img": "images/Bayeux_Tapestry_scene57_Harold_death.jpg",
+        "paleta": [
+          "#EBE4DC",
+          "#1E0000",
+          "#D9C9BA",
+          "#002634",
+          "#000300",
+          "#000E1D"
+        ]
       },
       {
-        "title": "Modra Devica iz Chartresa",
-        "artist": "Neznani mojstri",
-        "year": "12. stoletje",
-        "img": "images/chartres_modra_devica_neznani_mojstri_12_stol.jpg"
+        "title": "chartres modra devica neznani mojstri 12 stol",
+        "artist": "",
+        "year": "",
+        "img": "images/chartres_modra_devica_neznani_mojstri_12_stol.jpg",
+        "paleta": [
+          "#030207",
+          "#E3E6D3",
+          "#D5C089",
+          "#AE1611",
+          "#081132",
+          "#BFA16D"
+        ]
       },
       {
-        "title": "Maestà",
-        "artist": "Duccio di Buoninsegna",
-        "year": "1308–1311",
-        "img": "images/duccio_maesta_duccio_di_buoninsegna_1308_11.jpg"
+        "title": "duccio maesta duccio di buoninsegna 1308 11",
+        "artist": "",
+        "year": "",
+        "img": "images/duccio_maesta_duccio_di_buoninsegna_1308_11.jpg",
+        "paleta": [
+          "#0A0000",
+          "#C1954E",
+          "#D5B465",
+          "#700205",
+          "#FFFCF6",
+          "#0B111D"
+        ]
       },
       {
-        "title": "Objokovanje Kristusa",
-        "artist": "Giotto di Bondone",
-        "year": "pribl. 1305",
-        "img": "images/Giotto_-_Scrovegni_-_-36-_-_Lamentation_(The_Mourning_of_Christ)_adj.jpg"
+        "title": "Giotto Scrovegni 36 Lamentation (The Mourning of Christ) adj",
+        "artist": "",
+        "year": "",
+        "img": "images/Giotto_-_Scrovegni_-_-36-_-_Lamentation_(The_Mourning_of_Christ)_adj.jpg",
+        "paleta": [
+          "#F3F2FA",
+          "#496499",
+          "#5D221E",
+          "#D6CBAB",
+          "#705135",
+          "#7D8CAB"
+        ]
       },
       {
-        "title": "Objokovanje Kristusa",
-        "artist": "Giotto di Bondone",
-        "year": "pribl. 1305",
-        "img": "images/giotto_lamentation_pieta_giotto_di_bondone_1305.jpg"
+        "title": "giotto lamentation pieta giotto di bondone 1305",
+        "artist": "",
+        "year": "",
+        "img": "images/giotto_lamentation_pieta_giotto_di_bondone_1305.jpg",
+        "paleta": [
+          "#63729B",
+          "#99683D",
+          "#D5C089",
+          "#E5E7E2",
+          "#96A4BF",
+          "#472A1C"
+        ]
       },
       {
-        "title": "Mozaik cesarja Justinijana v San Vitalu",
-        "artist": "Neznan mojster",
-        "year": "pribl. 547",
-        "img": "images/Justinian_mosaic,_San_Vitale,_consecrated_547,_Ravenna,_Italy.jpg"
+        "title": "Justinian mosaic, San Vitale, consecrated 547, Ravenna, Italy",
+        "artist": "",
+        "year": "",
+        "img": "images/Justinian_mosaic,_San_Vitale,_consecrated_547,_Ravenna,_Italy.jpg",
+        "paleta": [
+          "#0A0000",
+          "#ABA9AA",
+          "#5D4300",
+          "#482B00",
+          "#310004",
+          "#00051C"
+        ]
       },
       {
-        "title": "Knjiga iz Kellsa: Kristus na prestolu",
-        "artist": "Neznani irski menihi",
-        "year": "pribl. 800",
-        "img": "images/KellsFol032vChristEnthroned.jpg"
+        "title": "KellsFol032vChristEnthroned",
+        "artist": "",
+        "year": "",
+        "img": "images/KellsFol032vChristEnthroned.jpg",
+        "paleta": [
+          "#D6AF78",
+          "#FCD065",
+          "#995331",
+          "#585858",
+          "#5A5A34"
+        ]
       },
       {
-        "title": "Tapiserija iz Bayeuxa",
-        "artist": "Neznan mojster",
-        "year": "pribl. 1070–1080",
-        "img": "images/tapiserija_iz_bayeuxa_neznan_mojster_1070_80.jpg"
+        "title": "tapiserija iz bayeuxa neznan mojster 1070 80",
+        "artist": "",
+        "year": "",
+        "img": "images/tapiserija_iz_bayeuxa_neznan_mojster_1070_80.jpg",
+        "paleta": [
+          "#EBE6E0",
+          "#5E2925",
+          "#D7C7B8",
+          "#1D3A58",
+          "#182930",
+          "#6C3E41"
+        ]
       },
       {
-        "title": "Zelo bogate ure vojvode Berrijskega",
-        "artist": "Bratje Limbourg",
-        "year": "1412–1416",
-        "img": "images/tres_riches_heures_du_duc_de_berry_bratje_limbourg_1412_16.jpg"
+        "title": "tres riches heures du duc de berry bratje limbourg 1412 16",
+        "artist": "",
+        "year": "",
+        "img": "images/tres_riches_heures_du_duc_de_berry_bratje_limbourg_1412_16.jpg",
+        "paleta": [
+          "#D7CFCD",
+          "#A9A96B",
+          "#384CAF",
+          "#9B9355",
+          "#D7C7AE",
+          "#4D5B41"
+        ]
       },
       {
-        "title": "Zelo bogate ure vojvode Berrijskega: januar",
-        "artist": "Bratje Limbourg",
-        "year": "1412–1416",
-        "img": "images/tres_riches_heures_januar_bratje_limbourg_1412_16.jpg"
+        "title": "tres riches heures januar bratje limbourg 1412 16",
+        "artist": "",
+        "year": "",
+        "img": "images/tres_riches_heures_januar_bratje_limbourg_1412_16.jpg",
+        "paleta": [
+          "#C2914E",
+          "#1137C0",
+          "#D2D3D5",
+          "#AF0F19",
+          "#5D80C2",
+          "#6F422D"
+        ]
       }
     ]
   },
   {
     "naslov": "Renesansa",
     "leto": "1400–1600",
-    "opis": "",
+    "opis": "Bogati zemeljski toni in chiaroscuro.",
     "paleta": [
-      "#33281B",
-      "#191511",
-      "#8B6F4C",
-      "#5F462F",
-      "#B09B76",
-      "#D5CAB0"
+      "#0A0000",
+      "#27310C",
+      "#AEA181",
+      "#D4D1C0",
+      "#5C4C33",
+      "#17161B"
     ],
     "imena": [
-      "Temno rjava",
-      "Skoraj črna",
-      "Topla umbra",
-      "Kostanjevo rjava",
-      "Zlato bež",
-      "Svetlo peščena"
+      "Skoraj črna z rdečkastim tonom",
+      "Zelo temna rumeno-zelena",
+      "Srednje svetla rumenkasto rjava",
+      "Svetla kremno rumena",
+      "Temna oranžno rjava",
+      "Skoraj črna z vijoličastim tonom"
     ],
     "dela": [
       {
-        "title": "Pomlad",
-        "artist": "Sandro Botticelli",
-        "year": "pribl. 1482",
-        "img": "images/botticelli_primavera_sandro_botticelli_1482.jpg"
+        "title": "botticelli primavera sandro botticelli 1482",
+        "artist": "",
+        "year": "",
+        "img": "images/botticelli_primavera_sandro_botticelli_1482.jpg",
+        "paleta": [
+          "#090000",
+          "#AE8662",
+          "#16151A",
+          "#322E2F",
+          "#E8D7A9"
+        ]
       },
       {
-        "title": "Arnolfinijeva poroka",
-        "artist": "Jan van Eyck",
-        "year": "1434",
-        "img": "images/Eyck,_Jan_van_-_Arnolfini_Portrait_-_NG.jpg"
+        "title": "Eyck, Jan van Arnolfini Portrait NG",
+        "artist": "",
+        "year": "",
+        "img": "images/Eyck,_Jan_van_-_Arnolfini_Portrait_-_NG.jpg",
+        "paleta": [
+          "#27310C",
+          "#441F16",
+          "#473A27",
+          "#12110D",
+          "#2C2A2B",
+          "#23191A"
+        ]
       },
       {
-        "title": "Zadnja večerja",
-        "artist": "Leonardo da Vinci",
-        "year": "1495–1498",
-        "img": "images/leonardo_da_vinci_zadnja_vecerja_leonardo_da_vinci_1495_98.jpg"
+        "title": "leonardo da vinci zadnja vecerja leonardo da vinci 1495 98",
+        "artist": "",
+        "year": "",
+        "img": "images/leonardo_da_vinci_zadnja_vecerja_leonardo_da_vinci_1495_98.jpg",
+        "paleta": [
+          "#AFA184",
+          "#5B4E3B",
+          "#C1BEAF",
+          "#0B0000"
+        ]
       },
       {
-        "title": "Stvarjenje Adama",
-        "artist": "Michelangelo Buonarroti",
-        "year": "pribl. 1511–1512",
-        "img": "images/Michelangelo_-_Creation_of_Adam_(cropped).jpg"
+        "title": "Michelangelo Creation of Adam (cropped)",
+        "artist": "",
+        "year": "",
+        "img": "images/Michelangelo_-_Creation_of_Adam_(cropped).jpg",
+        "paleta": [
+          "#D6CEB9",
+          "#E9E2C8",
+          "#C1A06D",
+          "#49200C",
+          "#798C9A",
+          "#6F7048"
+        ]
       },
       {
         "title": "Mona Lisa",
-        "artist": "Leonardo da Vinci",
-        "year": "1503–1519",
-        "img": "images/Mona_Lisa.jpg"
+        "artist": "",
+        "year": "",
+        "img": "images/Mona_Lisa.jpg",
+        "paleta": [
+          "#0B0000",
+          "#AE9038",
+          "#D88B23",
+          "#1D1113",
+          "#6A7236"
+        ]
       },
       {
-        "title": "Atenska šola",
-        "artist": "Rafael",
-        "year": "1509–1511",
-        "img": "images/raphael_sola_v_atenah.jpg"
+        "title": "raphael sola v atenah",
+        "artist": "",
+        "year": "",
+        "img": "images/raphael_sola_v_atenah.jpg",
+        "paleta": [
+          "#D6D0AE",
+          "#716148",
+          "#090000",
+          "#FBF9E4",
+          "#86866A",
+          "#9EAFC3"
+        ]
       },
       {
-        "title": "Rojstvo Venere",
-        "artist": "Sandro Botticelli",
-        "year": "pribl. 1484–1486",
-        "img": "images/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg"
+        "title": "Sandro Botticelli La nascita di Venere Google Art Project edited",
+        "artist": "",
+        "year": "",
+        "img": "images/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+        "paleta": [
+          "#D7D1AF",
+          "#D3AC67",
+          "#C1C19B",
+          "#E9E6D3",
+          "#0D0000",
+          "#7A8469"
+        ]
       },
       {
-        "title": "Marijino vnebovzetje",
-        "artist": "Tizian",
-        "year": "1516–1518",
-        "img": "images/titian_assumption_of_the_virgin_titian_1516_18.jpg"
+        "title": "titian assumption of the virgin titian 1516 18",
+        "artist": "",
+        "year": "",
+        "img": "images/titian_assumption_of_the_virgin_titian_1516_18.jpg",
+        "paleta": [
+          "#5A342B",
+          "#010101",
+          "#E9D0A8",
+          "#211B1D",
+          "#DBC28C",
+          "#0F0D10"
+        ]
       },
       {
-        "title": "Arnolfinijeva poroka",
-        "artist": "Jan van Eyck",
-        "year": "1434",
-        "img": "images/Van_Eyck_-_Arnolfini_Portrait.jpg"
+        "title": "Van Eyck Arnolfini Portrait",
+        "artist": "",
+        "year": "",
+        "img": "images/Van_Eyck_-_Arnolfini_Portrait.jpg",
+        "paleta": [
+          "#263308",
+          "#47251C",
+          "#4A3E2E",
+          "#1E1E1E",
+          "#837654",
+          "#324C5D"
+        ]
       }
     ]
   },
   {
     "naslov": "Impresionizem",
     "leto": "1870–1900",
-    "opis": "",
+    "opis": "Svetle in vibrantne barve.",
     "paleta": [
-      "#746856",
-      "#5F7B85",
-      "#9A988D",
-      "#3C4039",
-      "#171E22",
-      "#CECCC0"
+      "#BEBFBA",
+      "#548AAC",
+      "#9A5B56",
+      "#353221",
+      "#2D3446",
+      "#617C85"
     ],
     "imena": [
-      "Taupe siva",
-      "Modro siva",
-      "Topla siva",
-      "Olivno siva",
-      "Modro črna",
-      "Svetlo greige"
+      "Svetlo siva z rumeno-zelenkastim tonom",
+      "Srednje temna modra",
+      "Srednje temna umirjena rdeča",
+      "Zelo temna oker rjava",
+      "Temna umirjena modra",
+      "Srednje temna umirjena turkizna"
     ],
     "dela": [
       {
-        "title": "Ples v Moulin de la Galette",
-        "artist": "Pierre-Auguste Renoir",
-        "year": "1876",
-        "img": "images/Auguste_Renoir_-_Dance_at_Le_Moulin_de_la_Galette_-_Google_Art_Project.jpg"
+        "title": "Auguste Renoir Dance at Le Moulin de la Galette Google Art Project",
+        "artist": "",
+        "year": "",
+        "img": "images/Auguste_Renoir_-_Dance_at_Le_Moulin_de_la_Galette_-_Google_Art_Project.jpg",
+        "paleta": [
+          "#05111D",
+          "#6A7066",
+          "#000700",
+          "#0C2833",
+          "#846B55",
+          "#705E2C"
+        ]
       },
       {
-        "title": "Zibelka",
-        "artist": "Berthe Morisot",
-        "year": "1872",
-        "img": "images/berthe_morisot_zibelka_berthe_morisot_1872.jpg"
+        "title": "berthe morisot zibelka berthe morisot 1872",
+        "artist": "",
+        "year": "",
+        "img": "images/berthe_morisot_zibelka_berthe_morisot_1872.jpg",
+        "paleta": [
+          "#E5E7E2",
+          "#D6CBAD",
+          "#060000",
+          "#9AB7D5",
+          "#ECAE73",
+          "#BCCBEA"
+        ]
       },
       {
-        "title": "Pariška ulica v dežju",
-        "artist": "Gustave Caillebotte",
-        "year": "1877",
-        "img": "images/caillebotte_pariska_ulica_v_dezju.jpg"
+        "title": "caillebotte pariska ulica v dezju",
+        "artist": "",
+        "year": "",
+        "img": "images/caillebotte_pariska_ulica_v_dezju.jpg",
+        "paleta": [
+          "#D6CEC3",
+          "#98695F",
+          "#4E5E6E",
+          "#ADA08D",
+          "#111E24",
+          "#292C33"
+        ]
       },
       {
-        "title": "Impresija, vzhajajoče sonce",
-        "artist": "Claude Monet",
-        "year": "1872",
-        "img": "images/Claude_Monet,_Impression,_soleil_levant.jpg"
+        "title": "Claude Monet, Impression, soleil levant",
+        "artist": "",
+        "year": "",
+        "img": "images/Claude_Monet,_Impression,_soleil_levant.jpg",
+        "paleta": [
+          "#8B988F",
+          "#6B8085",
+          "#AE967E",
+          "#BFBA9D",
+          "#5C726F",
+          "#828773"
+        ]
       },
       {
-        "title": "Lokvanji",
-        "artist": "Claude Monet",
-        "year": "1906",
-        "img": "images/Claude_Monet_-_Water_Lilies_-_1906,_Ryerson.jpg"
+        "title": "Claude Monet Water Lilies 1906, Ryerson",
+        "artist": "",
+        "year": "",
+        "img": "images/Claude_Monet_-_Water_Lilies_-_1906,_Ryerson.jpg",
+        "paleta": [
+          "#548AAC",
+          "#4A7585",
+          "#6D7B98",
+          "#ADBDBA",
+          "#6D988E",
+          "#41725D"
+        ]
       },
       {
-        "title": "Plesalke v rožnatem",
-        "artist": "Edgar Degas",
-        "year": "pribl. 1867–1868",
-        "img": "images/Edgar_Degas,_1867c_-_Ballerinas_in_Pink.jpg"
+        "title": "Edgar Degas, 1867c Ballerinas in Pink",
+        "artist": "",
+        "year": "",
+        "img": "images/Edgar_Degas,_1867c_-_Ballerinas_in_Pink.jpg",
+        "paleta": [
+          "#9A5B56",
+          "#36341F",
+          "#C27A7D",
+          "#704A37",
+          "#090900",
+          "#4C5B34"
+        ]
       },
       {
-        "title": "Pariška ulica v dežju",
-        "artist": "Gustave Caillebotte",
-        "year": "1877",
-        "img": "images/Gustave_Caillebotte_-_Paris_Street;_Rainy_Day_-_Google_Art_Project.jpg"
+        "title": "Gustave Caillebotte Paris Street; Rainy Day Google Art Project",
+        "artist": "",
+        "year": "",
+        "img": "images/Gustave_Caillebotte_-_Paris_Street;_Rainy_Day_-_Google_Art_Project.jpg",
+        "paleta": [
+          "#C0C0B8",
+          "#E9DEC0",
+          "#AA7C6D",
+          "#4A433D",
+          "#333329",
+          "#52736A"
+        ]
       },
       {
-        "title": "Impresija, vzhajajoče sonce",
-        "artist": "Claude Monet",
-        "year": "1872",
-        "img": "images/Monet_-_Impression,_Sunrise.jpg"
+        "title": "Monet Impression, Sunrise",
+        "artist": "",
+        "year": "",
+        "img": "images/Monet_-_Impression,_Sunrise.jpg",
+        "paleta": [
+          "#687269",
+          "#866B56",
+          "#987B6D",
+          "#5D5F51",
+          "#2E483B",
+          "#3C5D54"
+        ]
       },
       {
-        "title": "Boulevard Montmartre ponoči",
-        "artist": "Camille Pissarro",
-        "year": "1897",
-        "img": "images/pissarro_boulevard_montmartre_ponoci.jpg"
+        "title": "pissarro boulevard montmartre ponoci",
+        "artist": "",
+        "year": "",
+        "img": "images/pissarro_boulevard_montmartre_ponoci.jpg",
+        "paleta": [
+          "#2D3446",
+          "#837E78",
+          "#1F1D33",
+          "#84733F",
+          "#716451",
+          "#0A0000"
+        ]
       },
       {
-        "title": "Ples v Moulin de la Galette",
-        "artist": "Pierre-Auguste Renoir",
-        "year": "1876",
-        "img": "images/Renoir,_Pierre-Auguste_-_Dance_at_Le_Moulin_de_la_Galette,_1876.jpg"
+        "title": "Renoir, Pierre Auguste Dance at Le Moulin de la Galette, 1876",
+        "artist": "",
+        "year": "",
+        "img": "images/Renoir,_Pierre-Auguste_-_Dance_at_Le_Moulin_de_la_Galette,_1876.jpg",
+        "paleta": [
+          "#061220",
+          "#052C33",
+          "#A8ADA7",
+          "#AE8F70",
+          "#090000",
+          "#987F3C"
+        ]
       }
     ]
   },
   {
     "naslov": "Bauhaus",
     "leto": "1919–1933",
-    "opis": "",
+    "opis": "Geometrija in primarne barve.",
     "paleta": [
-      "#E4E0D7",
-      "#C1B293",
-      "#353338",
-      "#D92E22",
-      "#7E7670",
-      "#F3CB3C"
+      "#E8E7E5",
+      "#FFD43D",
+      "#D82416",
+      "#D3B986",
+      "#015D9E",
+      "#E53235"
     ],
     "imena": [
-      "Svetlo greige",
-      "Peščeno bež",
-      "Grafitno siva",
-      "Signalno rdeča",
-      "Taupe siva",
-      "Primarno rumena"
+      "Zelo svetlo siva",
+      "Svetla rumeno-oranžna",
+      "Živa rdeča",
+      "Svetla umirjena oranžna",
+      "Temna modra",
+      "Živa rdeča"
     ],
     "dela": [
       {
-        "title": "Stavba Bauhaus v Dessauu",
-        "artist": "Walter Gropius",
-        "year": "1925–1926",
-        "img": "images/bauhaus_stavba_dessau_walter_gropius_1925_26.jpg"
+        "title": "bauhaus stavba dessau walter gropius 1925 26",
+        "artist": "",
+        "year": "",
+        "img": "images/bauhaus_stavba_dessau_walter_gropius_1925_26.jpg",
+        "paleta": [
+          "#D5B985",
+          "#FFFFFF",
+          "#978F79",
+          "#39262C",
+          "#5C453A"
+        ]
       },
       {
-        "title": "Plakat za razstavo Bauhaus",
-        "artist": "Herbert Bayer",
-        "year": "1923",
-        "img": "images/herbert_bayer_bauhaus_razstava_poster_herbert_bayer_1923.jpg"
+        "title": "herbert bayer bauhaus razstava poster herbert bayer 1923",
+        "artist": "",
+        "year": "",
+        "img": "images/herbert_bayer_bauhaus_razstava_poster_herbert_bayer_1923.jpg",
+        "paleta": [
+          "#E6DBBD",
+          "#363636",
+          "#AA4A3A",
+          "#557985",
+          "#D7C3A0"
+        ]
       },
       {
-        "title": "Rumeno-rdeče-modro",
-        "artist": "Wassily Kandinsky",
-        "year": "1925",
-        "img": "images/kandinsky_rumeno_rdece_modro_wassily_kandinsky_1925.jpg"
+        "title": "kandinsky rumeno rdece modro wassily kandinsky 1925",
+        "artist": "",
+        "year": "",
+        "img": "images/kandinsky_rumeno_rdece_modro_wassily_kandinsky_1925.jpg",
+        "paleta": [
+          "#D4C476",
+          "#B6C1B1",
+          "#AE470D",
+          "#C21302",
+          "#996E99",
+          "#9BB6BF"
+        ]
       },
       {
-        "title": "Kompozicija št. II",
-        "artist": "Piet Mondrian",
-        "year": "1929",
-        "img": "images/Mondrian_-_Composition_no_II,_1929.jpg"
+        "title": "Mondrian Composition no II, 1929",
+        "artist": "",
+        "year": "",
+        "img": "images/Mondrian_-_Composition_no_II,_1929.jpg",
+        "paleta": [
+          "#FFD43D",
+          "#E9E9E7",
+          "#012AA0",
+          "#2C2723"
+        ]
       },
       {
-        "title": "Kompozicija II v rdeči, modri in rumeni",
-        "artist": "Piet Mondrian",
-        "year": "1930",
-        "img": "images/Piet_Mondriaan,_1930_-_Mondrian_Composition_II_in_Red,_Blue,_and_Yellow.jpg"
+        "title": "Piet Mondriaan, 1930 Mondrian Composition II in Red, Blue, and Yellow",
+        "artist": "",
+        "year": "",
+        "img": "images/Piet_Mondriaan,_1930_-_Mondrian_Composition_II_in_Red,_Blue,_and_Yellow.jpg",
+        "paleta": [
+          "#D82416",
+          "#E8E7E5",
+          "#015D9E",
+          "#E53235",
+          "#EDDB6F",
+          "#D2BCA7"
+        ]
       },
       {
-        "title": "Kompozicija VIII",
-        "artist": "Wassily Kandinsky",
-        "year": "1923",
-        "img": "images/Wassily_Kandinsky_Composition_VIII.jpg"
+        "title": "Wassily Kandinsky Composition VIII",
+        "artist": "",
+        "year": "",
+        "img": "images/Wassily_Kandinsky_Composition_VIII.jpg",
+        "paleta": [
+          "#E7E4DF",
+          "#060000",
+          "#E6DBBB",
+          "#18161B",
+          "#0D6499",
+          "#6E3E6E"
+        ]
       }
     ]
   },
@@ -466,57 +870,104 @@
     "leto": "1955–1975",
     "opis": "Močne nasičene barve pop kulture.",
     "paleta": [
-      "#91B2BA",
-      "#DBC7BE",
-      "#D89F61",
-      "#5D7A86",
-      "#A24B3E",
-      "#262934"
+      "#C32C3D",
+      "#E8E7E0",
+      "#8CC8C0",
+      "#E6BB38",
+      "#538397",
+      "#75B0D0"
     ],
     "imena": [
-      "Prašno modra",
-      "Puder bež",
-      "Karamelno oranžna",
-      "Jekleno modra",
-      "Opečnato rdeča",
-      "Temno modro-siva"
+      "Temna rdeča",
+      "Zelo svetlo siva z rumenkastim tonom",
+      "Svetla umirjena modro-zelena",
+      "Svetla rumeno-oranžna",
+      "Srednje temna turkizna",
+      "Srednje svetla umirjena modra"
     ],
     "dela": [
       {
-        "title": "Campbellove pločevinke juhe",
-        "artist": "Andy Warhol",
-        "year": "1962",
-        "img": "images/andy_warhol_campbell_s_soup_cans_andy_warhol_1962.jpg"
+        "title": "andy warhol campbell s soup cans andy warhol 1962",
+        "artist": "",
+        "year": "",
+        "img": "images/andy_warhol_campbell_s_soup_cans_andy_warhol_1962.jpg",
+        "paleta": [
+          "#C32C3D",
+          "#E8E7E0",
+          "#836929",
+          "#5B431E",
+          "#33221A"
+        ]
       },
       {
-        "title": "Marilyn Monroe",
-        "artist": "Andy Warhol",
-        "year": "1962",
-        "img": "images/andy_warhol_marilyn_monroe_andy_warhol_1962.jpg"
+        "title": "andy warhol marilyn monroe andy warhol 1962",
+        "artist": "",
+        "year": "",
+        "img": "images/andy_warhol_marilyn_monroe_andy_warhol_1962.jpg",
+        "paleta": [
+          "#8CC8C0",
+          "#E6BB38",
+          "#EC9299",
+          "#302722",
+          "#C0301D",
+          "#88A3AE"
+        ]
       },
       {
-        "title": "Večji pljusk",
-        "artist": "David Hockney",
-        "year": "1967",
-        "img": "images/david_hockney_a_bigger_splash_david_hockney_1967.jpg"
+        "title": "david hockney a bigger splash david hockney 1967",
+        "artist": "",
+        "year": "",
+        "img": "images/david_hockney_a_bigger_splash_david_hockney_1967.jpg",
+        "paleta": [
+          "#548297",
+          "#75B0D0",
+          "#DE855A",
+          "#FAB38B",
+          "#E9BF62",
+          "#D4E4E8"
+        ]
       },
       {
-        "title": "Zastava",
-        "artist": "Jasper Johns",
-        "year": "1954–1955",
-        "img": "images/jasper_johns_flag_jasper_johns_1954_55.jpg"
+        "title": "jasper johns flag jasper johns 1954 55",
+        "artist": "",
+        "year": "",
+        "img": "images/jasper_johns_flag_jasper_johns_1954_55.jpg",
+        "paleta": [
+          "#AB4F38",
+          "#D6D0C2",
+          "#1B5070",
+          "#C3B09F",
+          "#366171",
+          "#D3C69C"
+        ]
       },
       {
-        "title": "Utopljenka",
-        "artist": "Roy Lichtenstein",
-        "year": "1963",
-        "img": "images/Roy_Lichtenstein_Drowning_Girl.jpg"
+        "title": "Roy Lichtenstein Drowning Girl",
+        "artist": "",
+        "year": "",
+        "img": "images/Roy_Lichtenstein_Drowning_Girl.jpg",
+        "paleta": [
+          "#D6B1A9",
+          "#000008",
+          "#D1D6D0",
+          "#01135D",
+          "#9EAFC3",
+          "#EAD4C9"
+        ]
       },
       {
-        "title": "Whaam!",
-        "artist": "Roy Lichtenstein",
-        "year": "1963",
-        "img": "images/roy_lichtenstein_whaam_roy_lichtenstein_1963.jpg"
+        "title": "roy lichtenstein whaam roy lichtenstein 1963",
+        "artist": "",
+        "year": "",
+        "img": "images/roy_lichtenstein_whaam_roy_lichtenstein_1963.jpg",
+        "paleta": [
+          "#E6E5E1",
+          "#E8D74B",
+          "#882027",
+          "#000007",
+          "#5F2825",
+          "#5A1F00"
+        ]
       }
     ]
   },
@@ -525,45 +976,75 @@
     "leto": "1990–danes",
     "opis": "Digitalne in neonske barve.",
     "paleta": [
-      "#295851",
-      "#747586",
-      "#2A2123",
-      "#CA4709",
-      "#7B2B0D",
-      "#C4BE9A"
+      "#EB6A02",
+      "#C22A03",
+      "#165D4B",
+      "#FDDA26",
+      "#4138EB",
+      "#45B1D7"
     ],
     "imena": [
-      "Temno teal zelena",
-      "Skrilasto siva",
-      "Skoraj črna",
-      "Živo oranžna",
-      "Rjasto rjava",
-      "Peščeno olivna"
+      "Živa oranžna",
+      "Temna rdečkasto rjava",
+      "Temna modro-zelena",
+      "Živa rumeno-oranžna",
+      "Temna modro-vijolična",
+      "Srednje svetla turkizna"
     ],
     "dela": [
       {
-        "title": "Everydays: prvih 5000 dni",
-        "artist": "Beeple",
-        "year": "2021",
-        "img": "images/beeple_everydays_5000_dni.jpg"
+        "title": "beeple everydays 5000 dni",
+        "artist": "",
+        "year": "",
+        "img": "images/beeple_everydays_5000_dni.jpg",
+        "paleta": [
+          "#E8E8E6",
+          "#003233",
+          "#080000",
+          "#C17F5D",
+          "#34566F",
+          "#9A595F"
+        ]
       },
       {
-        "title": "Vremenski projekt",
-        "artist": "Olafur Eliasson",
-        "year": "2003",
-        "img": "images/olafur_eliasson_the_weather_project_olafur_eliasson_2003.jpg"
+        "title": "olafur eliasson the weather project olafur eliasson 2003",
+        "artist": "",
+        "year": "",
+        "img": "images/olafur_eliasson_the_weather_project_olafur_eliasson_2003.jpg",
+        "paleta": [
+          "#EB6A02",
+          "#842B03",
+          "#FDDA26",
+          "#1B080C"
+        ]
       },
       {
-        "title": "Unsupervised",
-        "artist": "Refik Anadol",
-        "year": "2022",
-        "img": "images/refik_anadol_unsupervised_moma_refik_anadol_2022.jpg"
+        "title": "refik anadol unsupervised moma refik anadol 2022",
+        "artist": "",
+        "year": "",
+        "img": "images/refik_anadol_unsupervised_moma_refik_anadol_2022.jpg",
+        "paleta": [
+          "#C22A03",
+          "#165D4B",
+          "#2D734E",
+          "#E5EAD4",
+          "#954218",
+          "#CCD49B"
+        ]
       },
       {
-        "title": "Gozd cvetlic in ljudi: izgubljen, potopljen in prerojen",
-        "artist": "teamLab",
-        "year": "2017",
-        "img": "images/teamlab_cvetlicni_gozd_teamlab_2017.jpg"
+        "title": "teamlab cvetlicni gozd teamlab 2017",
+        "artist": "",
+        "year": "",
+        "img": "images/teamlab_cvetlicni_gozd_teamlab_2017.jpg",
+        "paleta": [
+          "#4138EB",
+          "#D54F32",
+          "#45B1D7",
+          "#3A5FF8",
+          "#C13F47",
+          "#D353B0"
+        ]
       }
     ]
   }
