@@ -801,7 +801,7 @@ function logImageIssue(kind, title, src) {
 
 async function nalozi_podatke() {
   try {
-    const odg = await fetch('art_periods_data.json');
+    const odg = await fetch('art_periods_data.json?v=' + Date.now());
     if (!odg.ok) throw new Error('ni najdeno');
 
     const d = await odg.json();
@@ -817,7 +817,8 @@ async function nalozi_podatke() {
         title: a.title || '',
         artist: a.artist || '',
         year: a.year || a.leto || '',
-        img: a.img || ''
+        img: a.img || '',
+        paleta: a.paleta || a.palette || []
       }))
     }));
 
@@ -830,10 +831,8 @@ async function nalozi_podatke() {
   render();
 }
 
-function barve_za_delo(idx) {
-  const p = [...ERAS[activeIdx].paleta];
-  const off = idx % p.length;
-  return [...p.slice(off), ...p.slice(0, off)];
+function barve_za_delo(art, idx) {
+  return (art.paleta && art.paleta.length > 0) ? [...art.paleta] : [];
 }
 
 function render() {
@@ -930,7 +929,7 @@ function render() {
   const dela = era.dela || [];
 
   document.getElementById('artworksGrid').innerHTML = dela.map((art, idx) => {
-    const barve = barve_za_delo(idx);
+    const barve = barve_za_delo(art, idx);
 
     return '<div class="artwork-card">' +
       '<div class="artwork-img-wrap">' +
